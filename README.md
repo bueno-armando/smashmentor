@@ -12,7 +12,7 @@
 ```sh
 pip install -r requirements.txt
 ```
-3. Run the web server 
+3. Run the web server
 ̣̣```sh
 uvicorn main:app 
 ```
