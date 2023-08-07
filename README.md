@@ -1,6 +1,8 @@
 # SmashMentor
 ## The all in one place to practice!
 
+**IMPORTANT: This project is still in development. It was uploaded as a baseline for future, more complete releases and only provides the most basic of functionalities right now. I hope to make installation more user-friendly in the future and maybe even host it on a public server**
+
 ### Installation
 **You need to have the following on your system:**
 - Python 3.6 or higher
